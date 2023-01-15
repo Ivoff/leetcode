@@ -14,13 +14,13 @@ int searchInsert(std::vector<int>& nums, int target)
         {
             return middle;
         }
-        else if (begin == end)
-        {
-            if (nums[middle] < target)
-                return middle + 1;
-            else
-                return middle;
-        }
+//        else if (begin == end)
+//        {
+//            if (nums[middle] < target)
+//                return middle + 1;
+//            else
+//                return middle;
+//        }
         else if (nums[middle] < target)
         {
             begin = middle + 1;
@@ -31,12 +31,12 @@ int searchInsert(std::vector<int>& nums, int target)
         }
     }
 
-    return middle;
+    return end + 1;
 }
 
 int main(int argc, char** argv)
 {
-    std::vector<int>& nums = *(new std::vector<int>({3,5,7,9,10}));
-    printf("%d\n", searchInsert(nums, 8));
+    std::vector<int>& nums = *(new std::vector<int>({1,3,5,6}));
+    printf("%d\n", searchInsert(nums, 2));
     return 0;
 }
