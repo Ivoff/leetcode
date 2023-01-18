@@ -1,0 +1,3 @@
+/home/zilas/Documents/leetcode/C/283. Move Zeroes/cmake-build-debug/CMakeFiles/283__Move_Zeroes.dir
+/home/zilas/Documents/leetcode/C/283. Move Zeroes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zilas/Documents/leetcode/C/283. Move Zeroes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
