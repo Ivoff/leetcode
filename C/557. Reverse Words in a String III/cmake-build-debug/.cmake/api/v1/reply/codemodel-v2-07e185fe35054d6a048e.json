@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "557__Reverse_Words_in_a_String_III",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "557__Reverse_Words_in_a_String_III::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-557__Reverse_Words_in_a_String_III-Debug-3641b2eaef40300e1e02.json",
+					"name" : "557__Reverse_Words_in_a_String_III",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zilas/Documents/leetcode/C/557. Reverse Words in a String III/cmake-build-debug",
+		"source" : "/home/zilas/Documents/leetcode/C/557. Reverse Words in a String III"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
