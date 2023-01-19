@@ -1,0 +1,3 @@
+/home/zilas/Documents/leetcode/C/167. Two Sum II - Input Array Is Sorted/cmake-build-debug/CMakeFiles/167__Two_Sum_II___Input_Array_Is_Sorted.dir
+/home/zilas/Documents/leetcode/C/167. Two Sum II - Input Array Is Sorted/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zilas/Documents/leetcode/C/167. Two Sum II - Input Array Is Sorted/cmake-build-debug/CMakeFiles/rebuild_cache.dir
