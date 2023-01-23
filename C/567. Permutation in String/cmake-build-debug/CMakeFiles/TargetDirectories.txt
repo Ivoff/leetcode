@@ -1,0 +1,3 @@
+/home/zilas/Documents/leetcode/C/567. Permutation in String/cmake-build-debug/CMakeFiles/567__Permutation_in_String.dir
+/home/zilas/Documents/leetcode/C/567. Permutation in String/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zilas/Documents/leetcode/C/567. Permutation in String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
