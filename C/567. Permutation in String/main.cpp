@@ -35,6 +35,6 @@ bool checkInclusion(std::string s1, std::string s2)
 
 int main(int agc, char** argv)
 {
-    printf("%d\n", checkInclusion("ab", "a"));
+    printf("%d\n", checkInclusion("abcddefg", "zkkaaabddddegadebfdc"));
     return 0;
 }
